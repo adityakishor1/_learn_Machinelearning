@@ -196,7 +196,7 @@ Unsupervised learning is a type of machine learning where the model learns from 
 
 Unsupervised learning is widely used for exploratory data analysis and is a powerful tool when labeled data is scarce or unavailable.
 
-# Everythings about Semi-supervised learning 
+# Everythings basic about Semi-supervised learning 
 
 Semi-supervised learning is a machine learning technique that lies between supervised and unsupervised learning. It leverages both labeled and unlabeled data for training, typically with a small amount of labeled data and a large amount of unlabeled data.
 
