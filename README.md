@@ -3,22 +3,22 @@
 Machine learning is a subset of artificial intelligence (AI) that involves the development of algorithms and models that enable computers to learn from and make predictions or decisions based on data. Instead of being explicitly programmed to perform a task, a machine learning model is trained on data, allowing it to identify patterns, make decisions, and improve over time as it is exposed to more data.
 
 
-kniw qbout star
+# Types of Machine learning.
 
+1️⃣ **Supervised Learning**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 The model is trained on a **labeled dataset**, meaning each training example is paired with an output label. The model learns to map inputs to outputs.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Examples include **classification** and **regression** tasks.
 
-# Types of Machine Learning:
+2️⃣ **Unsupervised Learning**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 The model is trained on **data without labels** and tries to find hidden patterns or intrinsic structures in the input data.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 Examples include **clustering** and **association** tasks.
 
-1). Supervised Learning:
-The model is trained on a labeled dataset, meaning each training example is paired with an output label. The model learns to map inputs to outputs. Examples include classification and regression tasks.
+3️⃣ **Semi-Supervised Learning**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 A mix of **labeled and unlabeled data** is used for training. This approach is useful when labeling data is **expensive** or **time-consuming**.
 
-2). Unsupervised Learning: 
-The model is trained on data without labels, and it tries to find hidden patterns or intrinsic structures in the input data. Examples include clustering and association tasks.
-
-3). Semi-Supervised Learning: 
-A mix of labeled and unlabeled data is used for training. This approach is useful when labeling data is expensive or time-consuming.
-
-4). Reinforcement Learning: 
-The model learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward. It's commonly used in areas like robotics, gaming, and autonomous systems.
+4️⃣ **Reinforcement Learning**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 The model learns to make decisions by **taking actions in an environment** to maximize some notion of **cumulative reward**.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 It's commonly used in areas like **robotics**, **gaming**, and **autonomous systems**.
 
 
 # In machine learning, several libraries are essential for building, training, and deploying models. Here's a list of some of the most important ones:
